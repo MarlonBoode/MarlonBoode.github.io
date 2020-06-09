@@ -1,0 +1,65 @@
+h1 		{
+  text-align: center;
+  color: red ;
+  font-family: 'Monda', sans-serif;
+  
+}
+h2   	{
+	text-align: center;
+	
+}
+
+p 		{
+  text-align: center;
+  color:#000000;
+  font-family: 'Tomorrow', sans-serif  ;
+}
+
+img 	{
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#ekke 	{
+  display: block;
+  width: 30%;
+  height: auto;
+  border: 30px solid red;
+  padding: 20px ;
+  margin: auto;
+}
+
+#logo 	{
+	display: block;
+	width: 75%;
+	height: auto;
+	margin: auto;	
+}
+.button {
+  background-color: #ff5757;
+  border: none;
+  border-radius:12px;
+  color: black;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 0;
+  cursor: pointer;
+  
+}
+body	{
+	background-color: #fc7979;
+	
+}
+
+
+
+
+
+
+
+
+
