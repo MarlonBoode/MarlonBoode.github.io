@@ -1,0 +1,55 @@
+<html>
+
+  <head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168997904-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168997904-1');
+</script>
+
+		<title>
+		Easy Messages
+		</title>
+			<link rel="stylesheet" href="marlon.css" />
+			
+			
+</head>
+   
+  <body>
+	<hr>
+	
+	<img id="logo" src=" https://imgur.com/574T6SB.jpg" />
+
+
+   
+
+
+		<h1>App Description</h1>
+		<p>Helps people when they�re in an emergency and cannot call for help.</p>
+    <a href="#xd" class="button" >Click here to go to heading</a>
+		<hr>
+
+			<h1>Use Segment</h1>
+			<p>This is mainly used by people who have to walk alone in the dark back home or who live in an unsafe neighbourhood</p>
+		<hr>
+			<h1 id="xd"> Potential Prototype</h1>
+
+
+		<a href="https://drive.google.com/open?id=1Z4KQhGoe-ZEy8BnDtpAzbGSVzFUp5YEyt0iOjRhAnpU" class="button" >More information here</a>
+		
+		<a>
+			<img id="Ekke" src="https://i.imgur.com/H8GbPa5.jpg"  />
+		</a>
+
+			<hr>
+         <h1>If you want to see how the app works click on the button</h1>
+		
+		<a href="https://www.figma.com/proto/QTw4hxM4qK6LU8UZfYE7N5/Untitled?node-id=3%3A2&scaling=scale-down" target="_blank" class="button"> Figma prototype</a>
+
+	</body>
+
+</html>
